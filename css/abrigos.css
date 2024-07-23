@@ -1,0 +1,343 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(245, 239, 235);
+}
+
+.barraIsquierda{
+    margin-top: 3em;
+    padding-left: 5em;
+    text-align: left;
+    width: 30em;
+}
+
+#CampuShop{
+    font-size: 1.5em;
+}
+
+.general{
+    display: flex;
+}
+
+.entrecuados{
+    box-shadow: 2px 2px 10px gray;
+    border-radius: 2em;
+    background-color: rgb(224, 224, 224);
+    margin-top: 3em;
+    margin-left: 10em;
+}
+
+.Loscuadros{
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 1.1em;
+}
+
+#Toditos{
+    padding-left: 1em;
+    font-size: 1.8em;
+}
+
+.primeraPArte{
+    display: flex;
+    justify-content: space-between;
+}
+
+.segundaparte{
+    display: flex;
+    justify-content: space-between;
+}
+
+.primerCuadro{
+    text-align: center;
+    background-color: rgb(235, 235, 235);
+    margin-left: 1em;
+    margin-bottom: 2em;
+    border-radius: 1em;
+}
+
+#agregito1{
+    text-align: center;
+}
+
+.abajo{
+    border-radius: 5em;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: space-around;
+}
+#chaqueta1{
+    width: 10em;
+    height: 10em;
+    border-radius: 2em;
+}
+
+.boton1{
+    border-radius: 1em;
+    background-color: rgb(242, 250, 127);
+    text-decoration: none;
+}
+
+#vinculo1{
+    text-decoration: none;
+    color: gray;
+}
+
+.segundoCuadro{
+    text-align: center;
+    background-color: rgb(235, 235, 235);
+    margin-left: 1em;
+    margin-bottom: 2em;
+    border-radius: 1em;
+}
+
+.abajo2{
+    border-radius: 5em;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: space-around;
+}
+
+#chaqueta2{
+    width: 10em;
+    height: 10em;
+    border-radius: 2em;
+}
+
+.tercerCuadro{
+    text-align: center;
+    background-color: rgb(235, 235, 235);
+    margin-left: 1em;
+    border-radius: 1em;
+    margin-bottom: 2em;
+}
+
+.abajo3{
+    border-radius: 5em;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: space-around;
+}
+
+#camisa1{
+    width: 10em;
+    height: 10em;
+    border-radius: 2em;
+}
+
+.cuartoCuadro{
+    text-align: center;
+    background-color: rgb(235, 235, 235);
+    margin-left: 1em;
+   border-radius: 1em;
+    margin-bottom: 2em;
+}
+
+.abajo4{
+    border-radius: 5em;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: space-around;
+}
+
+#camisa2{
+    width: 10em;
+    height: 10em;
+    border-radius: 2em;
+}
+.quintoCuadro{
+    text-align: center;
+    background-color: rgb(235, 235, 235);
+    margin-left: 1em;
+    border-radius: 1em;
+    margin-bottom: 2em;
+}
+
+.abajo5{
+    border-radius: 5em;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: space-around;
+}
+
+#pantalon1{
+    border-radius: 2em;
+    width: 10em;
+    height: 10em;
+}
+
+.sextoCuadro{
+    text-align: center;
+    background-color: rgb(235, 235, 235);
+    margin-left: 1em;
+   
+    margin-bottom: 2em;
+}
+
+#pantalon2{
+    width: 10em;
+    height: 10em;
+    border-radius: 2em;
+}
+
+.abajo6{
+    border-radius: 5em;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: space-around;
+}
+
+.septimoCuadro{
+    text-align: center;
+    background-color: rgb(235, 235, 235);
+    margin-left: 1em;
+   
+    margin-bottom: 2em;
+}
+
+.abajo7{
+    border-radius: 5em;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: space-around;
+}
+
+#pantalon3{
+    width: 10em;
+    height: 10em;
+    border-radius: 2em;
+}
+
+.octavoCuadro{
+    text-align: center;
+    background-color: rgb(235, 235, 235);
+    margin-left: 1em;
+    margin-bottom: 2em;
+    width: 10em;
+}
+
+
+.abajo8{
+    border-radius: 5em;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: space-around;
+}
+
+#pantalon4{
+    width: 10em;
+    height: 10em;
+    border-radius: 2em;
+}
+
+.boton2{
+    border-radius: 1em;
+    background-color: rgb(242, 250, 127);
+    text-decoration: none;
+}
+
+#vinculo2{
+    text-decoration: none;
+    color: gray;
+}
+
+.boton3{
+    border-radius: 1em;
+    background-color: rgb(242, 250, 127);
+    text-decoration: none;
+}
+
+#vinculo3{
+    text-decoration: none;
+    color: gray;
+}
+
+.boton4{
+    border-radius: 1em;
+    background-color: rgb(242, 250, 127);
+    text-decoration: none;
+}
+
+#vinculo4{
+    text-decoration: none;
+    color: gray;
+}
+
+.boton5{
+    border-radius: 1em;
+    background-color: rgb(242, 250, 127);
+    text-decoration: none;
+}
+
+#vinculo5{
+    text-decoration: none;
+    color: gray;
+}
+
+.boton6{
+    border-radius: 1em;
+    background-color: rgb(242, 250, 127);
+    text-decoration: none;
+}
+
+#vinculo6{
+    text-decoration: none;
+    color: gray;
+}
+
+.boton7{
+    border-radius: 1em;
+    background-color: rgb(242, 250, 127);
+    text-decoration: none;
+}
+
+#vinculo7{
+    text-decoration: none;
+    color: gray;
+}
+
+.boton8{
+    border-radius: 1em;
+    background-color: rgb(242, 250, 127);
+    text-decoration: none;
+}
+
+#vinculo8{
+    text-decoration: none;
+    color: gray;
+}
+
+#Todoslo{
+    font-size: 1.1em;
+    text-decoration: none;
+    color: black;
+    margin-bottom:  2em; 
+}
+
+.abri{
+    text-decoration: none;
+    color: black;
+    font-size: 1.3em;
+    margin-top: 3em;
+}
+
+.cami{
+    text-decoration: none;
+    font-size: 1.1em;
+    color: black;
+}
+
+.panta{
+    text-decoration: none;
+    color: black;
+    font-size: 1.1em;
+}
+
+.carr{
+    text-decoration: none;
+    color: black;
+    font-size: 1.1em;
+}
+
+#cam{
+    font-size: 1.1em;
+}
