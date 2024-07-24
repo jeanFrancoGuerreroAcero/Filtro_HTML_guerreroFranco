@@ -48,6 +48,7 @@ body{
 }
 
 .primerCuadro{
+    width: 16vw;
     text-align: center;
     background-color: rgb(235, 235, 235);
     margin-left: 1em;
@@ -83,6 +84,7 @@ body{
 }
 
 .segundoCuadro{
+    width: 16vw;
     text-align: center;
     background-color: rgb(235, 235, 235);
     margin-left: 1em;
@@ -104,6 +106,7 @@ body{
 }
 
 .tercerCuadro{
+    width: 16vw;
     text-align: center;
     background-color: rgb(235, 235, 235);
     margin-left: 1em;
@@ -125,6 +128,7 @@ body{
 }
 
 .cuartoCuadro{
+    width: 16vw;
     text-align: center;
     background-color: rgb(235, 235, 235);
     margin-left: 1em;
@@ -145,6 +149,7 @@ body{
     border-radius: 2em;
 }
 .quintoCuadro{
+    width: 16vw;
     text-align: center;
     background-color: rgb(235, 235, 235);
     margin-left: 1em;
@@ -165,14 +170,6 @@ body{
     height: 10em;
 }
 
-.sextoCuadro{
-    text-align: center;
-    background-color: rgb(235, 235, 235);
-    margin-left: 1em;
-   
-    margin-bottom: 2em;
-}
-
 #pantalon2{
     width: 10em;
     height: 10em;
@@ -184,14 +181,6 @@ body{
     background-color: aliceblue;
     display: flex;
     justify-content: space-around;
-}
-
-.septimoCuadro{
-    text-align: center;
-    background-color: rgb(235, 235, 235);
-    margin-left: 1em;
-   
-    margin-bottom: 2em;
 }
 
 .abajo7{
@@ -206,15 +195,6 @@ body{
     height: 10em;
     border-radius: 2em;
 }
-
-.octavoCuadro{
-    text-align: center;
-    background-color: rgb(235, 235, 235);
-    margin-left: 1em;
-    margin-bottom: 2em;
-    width: 10em;
-}
-
 
 .abajo8{
     border-radius: 5em;
