@@ -1,4 +1,4 @@
-### Proyecto filtro HTML-css
+# Proyecto filtro HTML-css
 Se realizo la prueba de uso de HTML y css, maquetacion de pagina web de una tienda de Ropa 
 
 ## General
